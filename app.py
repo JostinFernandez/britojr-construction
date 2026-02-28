@@ -49,6 +49,16 @@ services_data = [
         "long_description": "Expand your living space outdoors. Whether you want maintenance-free composite decking or traditional pressure-treated wood, we build solid structures.",
         "video_url": "",
         "gallery": ["/static/img/deck1.jpg"]
+    },
+    {
+        "id": "snow-removal",
+        "title": "Roof Snow & Ice Dam Removal",
+        "short_desc": "Winter Roof Protection",
+        "details": ["Snow Shoveling", "Ice Dam Prevention", "Gutter Clearing"],
+        "icon": "/static/img/rooficon.png",
+        "long_description": "Protect your home's structural integrity during harsh winters. We safely clear heavy snow from your roof to prevent frozen gutters, dangerous ice dams, and costly interior water damage.",
+        "video_url": "",
+        "gallery": ["/static/img/roof1.jpg"]
     }
 ]
 
